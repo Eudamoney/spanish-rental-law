@@ -1,0 +1,14 @@
+{
+  "$schema": "https://btca.dev/btca.schema.json",
+  "dataDirectory": ".btca",
+  "resources": [
+    {
+      "type": "git",
+      "name": "spanish-rental-law",
+      "url": "https://github.com/Eudamoney/spanish-rental-law",
+      "branch": "main"
+    }
+  ],
+  "model": "claude-sonnet-4-5-20250929",
+  "provider": "anthropic"
+}

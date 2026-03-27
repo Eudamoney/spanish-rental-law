@@ -6,12 +6,8 @@ Normativa de comunidades autónomas relevante para arrendamientos de vivienda: r
 
 | Comunidad | Regulación de alquileres | Fianza/depósito | Estado |
 |-----------|-------------------------|-----------------|--------|
-| Cataluña | Ley 11/2020 (contenida) | INCASÒL (pendiente) | Parcial |
-| Madrid | — | IVIMA (pendiente) | Pendiente |
-| Andalucía | — | Reglamento fianza (pendiente) | Pendiente |
-| Valencia | — | Reglamento fianza (pendiente) | Pendiente |
-| País Vasco | — | Reglamento fianza (pendiente) | Pendiente |
-
-## Nota
-
-Los textos de normativa autonómica sobre depósito de fianzas se publican en los boletines oficiales de cada comunidad autónoma (DOGC, BOCM, BOJA, DOGV, EHAA) y no siempre están disponibles como texto consolidado en el BOE. Se irán incorporando progresivamente.
+| Cataluña | Ley 11/2020 (contenida) | Ley 13/1996 + Decreto 147/1997 vía INCASÒL (resumen) | Completo |
+| Madrid | — | Ley 12/1997 inspección/sanciones (texto completo BOE) | Completo |
+| Andalucía | — | Ley 8/1997 + Ley 5/2025 (supresión depósito desde 2026) | Completo |
+| Valencia | — | Ley 8/2004 arts. fianza (texto verbatim BOE) | Completo |
+| País Vasco | — | Ley 3/2015 arts. fianza (texto verbatim BOE) | Completo |
