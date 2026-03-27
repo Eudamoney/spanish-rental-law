@@ -1,0 +1,47 @@
+# Título IV. Disposiciones comunes
+
+## Metadata
+
+- **Fuente**: BOE-A-1994-26003
+- **Norma**: Ley 29/1994, de 24 de noviembre, de Arrendamientos Urbanos
+- **Última consolidación**: 25/05/2023
+
+## Artículo 36. Fianza.
+
+1. A la celebración del contrato será obligatoria la exigencia y prestación de fianza en metálico en cantidad equivalente a una mensualidad de renta en el arrendamiento de viviendas y de dos en el arrendamiento para uso distinto del de vivienda.
+
+2. Durante los cinco primeros años de duración del contrato, o durante los siete primeros años si el arrendador fuese persona jurídica, la fianza no estará sujeta a actualización. Pero cada vez que el arrendamiento se prorrogue, el arrendador podrá exigir que la fianza sea incrementada, o el arrendatario que disminuya, hasta hacerse igual a una o dos mensualidades de la renta vigente, según proceda, al tiempo de la prórroga.
+
+3. La actualización de la fianza durante el período de tiempo en que el plazo pactado para el arrendamiento exceda de cinco años, o de siete años si el arrendador fuese persona jurídica, se regirá por lo estipulado al efecto por las partes. A falta de pacto específico, lo acordado sobre actualización de la renta se presumirá querido también para la actualización de la fianza.
+
+4. El saldo de la fianza en metálico que deba ser restituido al arrendatario al final del arriendo, devengará el interés legal, transcurrido un mes desde la entrega de las llaves por el mismo sin que se hubiere hecho efectiva dicha restitución.
+
+5. Las partes podrán pactar cualquier tipo de garantía del cumplimiento por el arrendatario de sus obligaciones arrendaticias adicional a la fianza en metálico.
+
+En el caso del arrendamiento de vivienda, en contratos de hasta cinco años de duración, o de hasta siete años si el arrendador fuese persona jurídica, el valor de esta garantía adicional no podrá exceder de dos mensualidades de renta.
+
+6. Quedan exceptuadas de la obligación de prestar fianza la Administración General del Estado, las Administraciones de las comunidades autónomas y las entidades que integran la Administración Local, los organismos autónomos, las entidades públicas empresariales y demás entes públicos vinculados o dependientes de ellas, y las Mutuas colaboradoras con la Seguridad Social en su función pública de colaboración en la gestión de la Seguridad Social, así como sus Centros Mancomunados, cuando la renta haya de ser satisfecha con cargo a sus respectivos presupuestos.
+
+### Historial de reformas
+
+- Se modifica por el art. 1.14 del Real Decreto-ley 7/2019, de 1 de marzo. [Ref. BOE-A-2019-3108](https://www.boe.es/buscar/act.php?id=BOE-A-2019-3108#ap)
+
+- Téngase en cuenta, para los contratos celebrados con anterioridad, lo dispuesto en la disposición transitoria 1 del citado Real Decreto-ley.
+
+- Se deja sin efecto la modificación por Resolución de 22 de enero de 2019 que publica el Acuerdo del Congreso de los Diputados por el que se deroga el Real Decreto-ley 21/2018, de 14 de diciembre. [Ref. BOE-A-2019-799](https://www.boe.es/buscar/doc.php?id=BOE-A-2019-799)
+
+- Se modifica por el art. 1.11 del Real Decreto-ley 21/2018, de 14 de diciembre. [Ref. BOE-A-2018-17293](https://www.boe.es/buscar/act.php?id=BOE-A-2018-17293#ap)
+
+- Téngase en cuenta, para los contratos celebrados con anterioridad, lo dispuesto en la disposición transitoria 1 del citado Real Decreto-ley.
+
+- Se modifican los apartados 2 y 3 por el art. 1.20 de la Ley 4/2013, de 4 de junio. [Ref. BOE-A-2013-5941](https://www.boe.es/buscar/doc.php?id=BOE-A-2013-5941).
+
+- Se modifica el apartado 6 por la disposición final.4 de la Ley 39/2010, de 22 de diciembre. [Ref. BOE-A-2010-19703](https://www.boe.es/buscar/doc.php?id=BOE-A-2010-19703).
+
+- Se añade el apartado 6 por el art. 145 de la Ley 13/1996, de 30 de diciembre. [Ref. BOE-A-1996-29117](https://www.boe.es/buscar/doc.php?id=BOE-A-1996-29117).
+
+## Artículo 37. Formalización del arrendamiento.
+
+Las partes podrán compelerse recíprocamente a la formalización por escrito del contrato de arrendamiento.
+
+En este caso, se hará constar la identidad de los contratantes, la identificación de la finca arrendada, la duración pactada, la renta inicial del contrato y las demás cláusulas que las partes hubieran libremente acordado.
